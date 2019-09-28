@@ -1,0 +1,9 @@
+# You need to initilize the app, creating a package.json
+# In the package.json file you must specify the scripts object for the app starting
+npm initilize
+
+# For dev purposes, install electron locally (current directory must be the project directory)
+npm install --save-dev electron
+
+# Once everything is set up, run start
+npm start
